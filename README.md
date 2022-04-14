@@ -18,3 +18,6 @@
 🤦🏻 Navigation View를 선언만 한 후, XML에서 내부에 ImageButton 으로 넣어주는 방식으로 변경했다.
 
 🤦🏻 최대한 아이템들의 윤곽선에 맞춰 캡쳐한 후, 배경을 날리고 아이템에 맞게 크기를 재지정하는 방식을 사용했다.
+
+
+![Screenshot_20211224-140722_RC_Challenge](https://user-images.githubusercontent.com/80454599/163402708-ff0c4c17-7894-4b3b-825f-1c8eb4836074.jpg)
